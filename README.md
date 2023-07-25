@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# shadcn-next-template-pages
+
+A Next.js 13 and [shadcn/ui](https://ui.shadcn.com/) template with pages directory.
 
 ## Getting Started
 
@@ -22,17 +24,22 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## Usage
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+npx create-next-app -e https://github.com/haramishra/shadcn-next-template-pages
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Features
 
-## Deploy on Vercel
+- Next.js 13 App Directory
+- Radix UI Primitives
+- Tailwind CSS
+- Icons from [Lucide](https://lucide.dev)
+- Dark mode with `next-themes`
+- Tailwind CSS class sorting, merging and linting.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Licensed under the [MIT license](https://github.com/shadcn/ui/blob/main/LICENSE.md).
