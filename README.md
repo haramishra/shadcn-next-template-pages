@@ -35,7 +35,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Features
 
-- Next.js 13 App Directory
+- Next.js 13 pages Directory
 - Radix UI Primitives
 - Tailwind CSS
 - Icons from [Lucide](https://lucide.dev)
