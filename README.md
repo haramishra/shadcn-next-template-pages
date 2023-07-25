@@ -2,6 +2,13 @@
 
 A Next.js 13 and [shadcn/ui](https://ui.shadcn.com/) template with pages directory.
 
+
+## Usage
+
+```bash
+npx create-next-app -e https://github.com/haramishra/shadcn-next-template-pages
+```
+
 ## Getting Started
 
 First, run the development server:
@@ -25,11 +32,6 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 
-## Usage
-
-```bash
-npx create-next-app -e https://github.com/haramishra/shadcn-next-template-pages
-```
 
 ## Features
 
